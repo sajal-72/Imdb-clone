@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.landing{
+    width: 100%;
+    height: auto;
+ background-color: #030303;
+}
+
+.head{
+    width: 100%;
+    height: 57px;
+    background-color: black;
+    display: flex;
+}
+
+.h{
+    color: rgb(236, 236, 12);
+    margin-left: 11px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+.head p{
+    color:rgb(106, 202, 235);
+    margin-left: 777px;
+    margin-top: 17px;
+    cursor: pointer;
+}
+.head p:hover{
+    color:rgb(49, 169, 209);
+}
+
+
+.head i{
+    margin-left: 7px;
+}
+
+.he{
+    color: white;
+    margin-left: 13px;
+}
+.he i{
+    font-size: 27px;
+    margin-left: 7px;
+}
+
+.top p{
+    color: gray;
+    font-weight: 600;
+    margin-left: 13px;
+}
